@@ -10,24 +10,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Caaronbll/Galaxy.git"
+    "url": "git+https://github.com/tribeoftechGalaxyT.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Caaronbll/Galaxy/issues"
+    "url": "git+https://github.com/tribeoftechGalaxyT.git"
   },
-  "homepage": "https://github.com/Caaronbll/Galaxy#readme",
+  "homepage": "git+https://github.com/tribeoftech/GalaxyT#readme",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "dotenv": "^16.0.1",
     "express": "^4.19.2",
     "express-winston": "^4.2.0",
     "fastapi": "^0.0.8",
+    "mongod": "^2.0.0",
     "mongodb": "^6.5.0",
     "mongoose": "^8.3.1",
     "mongoose-paginate-v2": "^1.3.13",
     "mysql": "^2.18.1",
+    "node": "^18.20.2",
     "node-fetch": "^3.3.2",
     "request": "^2.88.2",
     "winston": "^3.13.0",
