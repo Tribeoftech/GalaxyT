@@ -1,0 +1,147 @@
+
+  [
+    {"Mercury": {
+      "name": "Mercury",
+      "mass": 0.055297200000000005,
+      "radius": 0.37994219999999995,
+      "period": 88,
+      "semi_major_axis": 0.387098,
+      "temperature": 260.33000000000004,
+      "distance_light_year": 0.000011,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 0.1461750155654593,
+      "Lots": 93459.91970208772,
+      "Prices": 100
+    }
+},
+{
+    "Saturn": {
+      "name": "Saturn",
+      "mass": 95.0222,
+      "radius": 9.392705999999999,
+      "period": 10747,
+      "semi_major_axis": 9.537,
+      "temperature": -218.46999999999997,
+      "distance_light_year": 0.00017,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 89.33456767363377,
+      "Lots": 57117842.533491224,
+      "Prices": 100
+    }
+  },
+  {
+    "Venus": {
+      "name": "Venus",
+      "mass": 0.816746,
+      "radius": 0.9437273999999999,
+      "period": 224.7,
+      "semi_major_axis": 0.723332,
+      "temperature": 866.9300000000001,
+      "distance_light_year": 0.000004,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 0.9018435663762833,
+      "Lots": 576611.7210340042,
+      "Prices": 100
+    }
+  },
+  {
+    "Neptune": {
+      "name": "Neptune",
+      "mass": 17.06586,
+      "radius": 3.8551319999999993,
+      "period": 59800,
+      "semi_major_axis": 30.07,
+      "temperature": -330.07,
+      "distance_light_year": 0.000478,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 15.049310002007658,
+      "Lots": 9622077.335983636,
+      "Prices": 100
+    }
+  },
+  {
+    "Earth": {
+      "name": "Earth",
+      "mass": 1.0010700000000001,
+      "radius": 0.9938663999999999,
+      "period": 365.2,
+      "semi_major_axis": 1,
+      "temperature": 58.73000000000005,
+      "distance_light_year": 0,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 1.000216695632783,
+      "Lots": 639508.5486867324,
+      "Prices": 100
+    }
+  },
+  {
+    "Pluto": {
+      "name": "Pluto",
+      "mass": 0.0022246,
+      "radius": 0.1849572,
+      "period": 90560,
+      "semi_major_axis": 39.48,
+      "temperature": -380.46999999999997,
+      "distance_light_year": 0.000559,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 0.03464021404117437,
+      "Lots": 22147.91365150566,
+      "Prices": 100
+    }
+  },
+  {
+    "Jupiter": {
+      "name": "Jupiter",
+      "mass": 317.8,
+      "radius": 11.142,
+      "period": 4331,
+      "semi_major_axis": 5.204,
+      "temperature": -162.66999999999996,
+      "distance_light_year": 0.000088,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 125.70842662641303,
+      "Lots": 80374196.7321297,
+      "Prices": 100
+    }
+  },
+  {
+    "Uranus": {
+      "name": "Uranus",
+      "mass": 14.52346,
+      "radius": 3.9888359999999996,
+      "period": 30589,
+      "semi_major_axis": 19.191,
+      "temperature": -322.86999999999995,
+      "distance_light_year": 0.000304,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 16.111294790147596,
+      "Lots": 10301078.54997667,
+      "Prices": 100
+    }
+  },
+  {
+    "Mars": {
+      "name": "Mars",
+      "mass": 0.1074164,
+      "radius": 0.5437296,
+      "period": 687,
+      "semi_major_axis": 1.542,
+      "temperature": -81.66999999999996,
+      "distance_light_year": 0.000037,
+      "host_star_mass": 1,
+      "host_star_temperature": 6000,
+      "surface_area": 0.29936707550520514,
+      "Lots": 191406.327065763,
+      "Prices": 100
+    }
+  }
+  ]
+  
