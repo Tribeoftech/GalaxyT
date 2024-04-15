@@ -3,7 +3,7 @@ const fs = require('fs');
 const Galaxy = require('./schema'); // Import the schema
 
 // MongoDB connection URI
-const mongoDBAtlasUri = 'mongodb+srv://new_user:urgsQzpeKLFY1yWl@cluster0.xnrspad.mongodb.net/Galaxy?retryWrites=true&w=majority&appName=Cluster0';
+const mongoDBAtlasUri = '';
 
 // Connect to MongoDB database
 mongoose.connect(mongoDBAtlasUri, { useNewUrlParser: true, useUnifiedTopology: true });
